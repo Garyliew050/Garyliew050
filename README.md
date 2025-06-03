@@ -12,7 +12,7 @@
 - 💡 I enjoy building with **Laravel + Vue.js**, especially for academic and personal projects
 - 🧠 Exploring **game development** with Unity and diving into **penetration testing** on Kali Linux
 - 💞️ Looking to collaborate on innovative and impactful projects
-- 📫 Reach me at: `garyliew050 [at] example.com`  
+- 📫 Reach me at: `garyliew050@gmail.com`  
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I love turning coffee into code ☕🐱
 
