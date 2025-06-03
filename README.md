@@ -7,24 +7,34 @@
 ---
 
 🎮 **About Me**  
-- 👀 I’m interested in **game development**, **web3**, and **open-source**
-- 🌱 I’m currently learning **TypeScript**, **Solidity**, and **AI integrations**
-- 💞️ I’m looking to collaborate on **cool, fun, and meaningful tech projects**
-- 📫 Reach me at: `garyliew050 [at] example.com`
+- 👨‍💻 I'm passionate about **software development**, **network security**, and **game design**
+- 📚 Currently learning advanced topics in **cybersecurity** and **full-stack development**
+- 💡 I enjoy building with **Laravel + Vue.js**, especially for academic and personal projects
+- 🧠 Exploring **game development** with Unity and diving into **penetration testing** on Kali Linux
+- 💞️ Looking to collaborate on innovative and impactful projects
+- 📫 Reach me at: `garyliew050 [at] example.com`  
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I once made an app that talks like a cat 🐱
+- ⚡ Fun fact: I love turning coffee into code ☕🐱
 
 ---
 
-🚀 **Languages & Tools**
+🚀 **Languages & Skills**
+C++ | Java (OOP) | HTML | CSS | JavaScript | React | Laravel | Vue.js
+SQL | Database Design | Unity Game Engine | Kali Linux | Cybersecurity
+TCP/IP Networking | Penetration Testing | Software Testing | Git & GitHub
+
+
+---
+
+🛠 **Tech Stack Icons**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,solidity,git,github,python,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,laravel,vue,unity,linux,git,vscode,mysql&perline=6" />
 </p>
 
 ---
 
-✨ **GitHub Stats**
+📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Garyliew050&show_icons=true&theme=tokyonight" />
@@ -33,12 +43,21 @@
 
 ---
 
-🎉 **Random Dev Quote**
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
----
+💬 **Typing Animation**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+lifelong+learner.;Let's+build+cool+things+together!" />
 </p>
 
+---
+
+🧠 **Current Focus**
+> "Building secure, modern applications with full-stack tools and learning by creating."
+
+---
+
+🌈 **Thanks for visiting!**
+
+<p align="center">
+  <img src="https://github.com/Garyliew050/Garyliew050/blob/main/nyan-cat.gif" width="200px" />
+</p>
