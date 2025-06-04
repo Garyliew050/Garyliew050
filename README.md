@@ -43,7 +43,6 @@ TCP/IP Networking | Penetration Testing | Software Testing | Git & GitHub
 
 ---
 
-💬 **Typing Animation**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+lifelong+learner.;Let's+build+cool+things+together!" />
